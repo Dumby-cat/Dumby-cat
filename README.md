@@ -3,4 +3,4 @@
 ║║║║║║║║═╬╗║  
 ║║║║║║║║║║║║  
 ╚═╩═╩╩╩╩═╩═╝  
-[我的博客](https://dumblog.top/)：https://dumblog.top/
+我的博客：https://dumblog.top/
